@@ -12,3 +12,5 @@
 
 ## Update
 - Continued working on code structure and testing
+
+Updated roadmap with current project progress and next steps
